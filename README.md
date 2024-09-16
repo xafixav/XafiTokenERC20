@@ -43,3 +43,8 @@ This Solidity code defines a custom ERC-20 token called `XafiToken`. It provides
 * Consider adding additional features such as token burning, minting, or pausing to enhance functionality.
 * Implement security best practices to protect against vulnerabilities.
 * Test the contract thoroughly to ensure correct behavior and prevent errors.
+* The code is working with Remix + Metamask.
+
+![alt text](image.png)
+
+![alt text](image-1.png)
